@@ -24,6 +24,7 @@ Explore our detailed process guides:
 - [Release & Deployment Guide](octoacme-release-and-deployment.md) - Standards for releasing features to production safely and effectively
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md) - Capturing learnings and converting them into actionable improvements
 - [Roles and Personas](octoacme-roles-and-personas.md) - Detailed definitions of core roles and responsibilities
+- [Cross-Functional Collaboration Checklist](octoacme-cross-functional-collaboration-checklist.md) - Guidance for effective collaboration across all project roles
 
 ## Getting Started
 
@@ -31,9 +32,10 @@ New to OctoAcme project management? We recommend reading the documents in this o
 
 1. Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our principles and lifecycle
 2. Review [Roles and Personas](octoacme-roles-and-personas.md) to understand team structure and responsibilities
-3. Follow the lifecycle phases: [Initiation](octoacme-project-initiation.md) → [Planning](octoacme-project-planning.md) → [Execution & Tracking](octoacme-execution-and-tracking.md) → [Release & Deployment](octoacme-release-and-deployment.md)
-4. Learn about [Risk Management & Communication](octoacme-risks-and-communication.md) practices
-5. Understand our commitment to [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+3. Check the [Cross-Functional Collaboration Checklist](octoacme-cross-functional-collaboration-checklist.md) to understand how roles work together
+4. Follow the lifecycle phases: [Initiation](octoacme-project-initiation.md) → [Planning](octoacme-project-planning.md) → [Execution & Tracking](octoacme-execution-and-tracking.md) → [Release & Deployment](octoacme-release-and-deployment.md)
+5. Learn about [Risk Management & Communication](octoacme-risks-and-communication.md) practices
+6. Understand our commitment to [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 
 ## Contributing
 
